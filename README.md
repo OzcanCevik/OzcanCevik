@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEdKdTzjWnTNA/profile-displaybackgroundimage-shrink_350_1400/0/1722028645712?e=1727913600&v=beta&t=v8HmY7gJx4fL8b5O5hKStzdpsutxJgwP9zRvejJ4zis)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQEdKdTzjWnTNA/profile-displaybackgroundimage-shrink_350_1400/0/1722028645712?e=1727913600&v=beta&t=v8HmY7gJx4fL8b5O5hKStzdpsutxJgwP9zRvejJ4zis)
 <h1 align="center">Hi 👋, I'm Özcan Çevik</h1>
 <h3 align="center">A passionate electronics engineer from Turkey</h3>
 
